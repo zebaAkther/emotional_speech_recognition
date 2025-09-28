@@ -1,6 +1,7 @@
-streamlit
+scikit-learn==1.2.2  # Replace with your actual version
+numpy==1.24.3        # Also match numpy version
 librosa
+streamlit
 pandas
-scikit-learn==1.2.2
-numpy==1.24.3
-joblib==1.3.1
+joblib
+

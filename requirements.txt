@@ -1,6 +1,6 @@
 streamlit
 librosa
-numpy
-scikit-learn
-joblib
 pandas
+scikit-learn==1.2.2
+numpy==1.24.3
+joblib==1.3.1
